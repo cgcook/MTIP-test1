@@ -12,6 +12,6 @@ _emphasis_
 __strong emphasis__
 
 list  
-*one  
-*two  
-*three  
+~one  
+~two  
+~three  
